@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="food.xsl"?>
+<foods>
+    <food-items>
+        <name>fish</name>
+        <cost>3443</cost>
+    </food-items>
+    <food-items>
+        <name>chicken</name>
+        <cost>34453</cost>
+    </food-items>
+</foods>
