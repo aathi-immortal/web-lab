@@ -1,0 +1,1 @@
+ They are currently set up to work in a request-response manner, where the client sends a message, waits for a response from the server, and then sends another message. 
