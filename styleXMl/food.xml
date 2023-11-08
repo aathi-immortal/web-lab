@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<foodList>
+    <food>
+        <name>aa</name>
+        <cost>23</cost>
+    </food>
+    <food>
+        <name>bb</name>
+        <cost>45</cost>
+    </food>
+    <food>
+        <name>aa</name>
+        <cost>23</cost>
+    </food>
+    <food>
+        <name>bb</name>
+        <cost>45</cost>
+    </food>
+
+</foodList>

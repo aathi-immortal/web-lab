@@ -1,0 +1,25 @@
+<!-- <?xml version="1.0" encoding="UTF-8"?>
+<company>
+    <employee>
+        <name>aa</name>
+        <salary>3000</salary>
+    </employee>
+    <employee>  
+        <name>as</name>
+        <salary>3000</salary>
+    </employee>
+    <employee>
+        <name>bb</name>
+        <salary>3000</salary>
+    </employee>
+</company>
+ -->
+
+<bookstore>
+    <book>
+        <title>Everyday Italian</title>
+        <title>Everyday Italian</title>
+        <author>Giada De Laurentiis</author>
+        <year>2005</year>
+    </book>
+</bookstore>

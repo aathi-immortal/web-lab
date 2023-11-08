@@ -1,0 +1,8 @@
+<!ELEMENT bookstore (book+)>
+<!ELEMENT book (title, author, price, description)>
+
+<!ATTLIST book
+    id ID #REQUIRED
+    description CDATA #IMPLIED>
+
+<!ENTITY bookDescription SYSTEM "book_description.txt">

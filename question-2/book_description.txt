@@ -1,0 +1,2 @@
+Introduction to XSLT: This book introduces XSLT and its applications.
+XML Basics: Learn the fundamentals of XML with this comprehensive guide.

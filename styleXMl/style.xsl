@@ -8,7 +8,7 @@
                     <th>Name</th>
                     <th>Cost</th>
                 </tr>
-                <xsl:for-each select="foods/food-items">
+                <!-- <xsl:for-each select="foods/food-items">
                     <tr>
                         <td>
                             <xsl:value-of select="name" />
@@ -17,8 +17,9 @@
                             <xsl:value-of select="cost" />
                         </td>
                     </tr>
-                </xsl:for-each>
+                </xsl:for-each> -->
             </table>
+
         </html>
     </xsl:template>
 </xsl:stylesheet>

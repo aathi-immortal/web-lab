@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="studentXsd.xsd" type="application/xml" schematypens="http://www.w3.org/2001/XMLSchema"?>
+<?xml-stylesheet href="studentXslt.xsl" type="text/xsl"?>
+<students>
+    <student>
+        <id>1</id>
+        <name>John Doe</name>
+        <age>20</age>
+        <grade>A</grade>
+        <address>
+            <street>123 Main St</street>
+            <city>New York</city>
+            <state>NY</state>
+            <zip>10001</zip>
+        </address>
+    </student>
+    <student>
+        <id>2</id>
+        <name>Jane Smith</name>
+        <age>21</age>
+        <grade>B</grade>
+        <address>
+            <street>456 Elm St</street>
+            <city>Los Angeles</city>
+            <state>CA</state>
+            <zip>90001</zip>
+        </address>
+    </student>
+    <student>
+        <id>3</id>
+        <name>Michael Johnson</name>
+        <age>19</age>
+        <grade>C</grade>
+        <address>
+            <street>789 Oak St</street>
+            <city>Chicago</city>
+            <state>IL</state>
+            <zip>60601</zip>
+        </address>
+    </student>
+</students>

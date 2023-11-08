@@ -1,0 +1,3 @@
+<!ELEMENT document (description)>
+<!ELEMENT description (#PCDATA)>
+<!ENTITY externalText SYSTEM "./external.txt">

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="bookxsl.xsl"?>
+<bookstore>
+    <book title="Introduction to XSLT" author="John Doe" price="29.99" />
+    <book title="XML Basics" author="Jane Smith" price="19.99" />
+</bookstore>
+<!-- Using Xslt, how would you extract a specific attribute from an element in an
+Xml document ? When constructing an Xml Dtd, how do you create an external
+entity reference in an attribute value ? -->
